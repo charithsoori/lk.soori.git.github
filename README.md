@@ -9,9 +9,15 @@ This is header 2
 ### Italic and Bold styles
 *italic text*.
 
+this is also a _italic text_
+
 **bold text**.
 
+this is also __bold__
+
+
 ***bold and italic text***.
+
 
 
 
@@ -32,9 +38,12 @@ Click to follow me in [twitter](www.twitter.com/charithsoori)
 >charith soori said
 
 
+### Phrase Emphasis ###
 
-    Some of these words *are emphasized*.
-    Some of these words _are emphasized also_.
+Markdown uses asterisks and underscores to indicate spans of emphasis.
+
+Markdown:
+
     
-    Use two asterisks for **strong emphasis**.
-    Or, if you prefer, __use two underscores instead__.
+Use two asterisks for **strong emphasis**.
+Or, if you prefer, __use two underscores instead__.
