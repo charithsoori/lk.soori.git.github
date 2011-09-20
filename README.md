@@ -61,3 +61,22 @@ I use [twitter][tweet] more often
 #Quotes
 >charith soori said
 
+
+#Images
+
+Image syntax is very much like link syntax.
+
+####Inline (titles are optional):
+
+
+![charithsoori Logo](http://a1.twimg.com/profile_images/816654345/soori_2x2_.jpg "soori")
+
+####Reference-style:
+
+![charithsoori Logo][id]
+
+[id]: http://a1.twimg.com/profile_images/816654345/soori_2x2_.jpg "soori"
+
+####Both of the above examples produce the same output:
+
+<img src="http://a1.twimg.com/profile_images/816654345/soori_2x2_.jpg" alt="alt text" title="soori" />
