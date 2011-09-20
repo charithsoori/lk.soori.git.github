@@ -49,9 +49,14 @@ Click to follow me in [twitter](www.twitter.com/charithsoori)
 ###User reference
 I use [twitter][1] and [facebook][2] more often.
 
-[1]: http://twitter.com/charithsoori
-[2]:htttp://facebook.comcharithsoori
-    
+[1]: http://twitter.com/charithsoori    "tweeting"
+[2]: http://facebook.com/charithsoori    "fb"
+
+####and without tittle
+I use [twitter][tweet] more often
+
+[tweet]:http://twitter.com/charithsoori
+
 
 #Quotes
 >charith soori said
