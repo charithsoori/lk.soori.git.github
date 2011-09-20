@@ -46,7 +46,12 @@ this is also __bold__
 
 Click to follow me in [twitter](www.twitter.com/charithsoori)
 
+###User reference
+I use [twitter][1] and [facebook][2] more often.
 
+[1]: http://twitter.com/charithsoori
+[2]:htttp://facebook.comcharithsoori
+    
 
 #Quotes
 >charith soori said
